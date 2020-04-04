@@ -8,3 +8,6 @@ header{
 header h1 {
 	color: white;
 }
+header img{
+	border-radius: 150px;
+}
